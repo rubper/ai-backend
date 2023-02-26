@@ -30,7 +30,8 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "seedrandom": "3.0.5",
-    "typeorm": "^0.3.12"
+    "typeorm": "^0.3.12",
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
