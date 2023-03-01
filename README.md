@@ -1,8 +1,16 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank">
-    <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
-  </a>
-</p>
+<table align="center"><tr>
+  <td>
+    <a href="http://nestjs.com/" target="blank">
+      <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
+    </a>
+  </td>
+  <td>+</td>
+  <td>
+    <a href="https://www.tensorflow.org/" target="blank">
+      <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width="200" alt="Tensorflow Logo" />
+    </a>
+  </td>
+</tr></table>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
